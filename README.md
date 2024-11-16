@@ -61,7 +61,7 @@ This project visualizes student data using an interactive map and statistical ch
 ### 4. **Script 4:** Generates avatar images.
 - Creates PNG images for each letter of the English alphabet.
 - Each image has a random background color with a white letter centered.
-- Saves the images as files named by their respective letters (`A.png`, `B.png`, etc.).
+- Saves the images as files named by their respective letters (`A.png`, `B.png`, etc.). 
 
 ---
 
