@@ -63,4 +63,4 @@ for _, row in csv_data.iterrows():
     ).add_to(marker_cluster)
 
 # Save the map
-europe_map.save('europe_map.html')
+europe_map.save('webpage/europe_map.html')
