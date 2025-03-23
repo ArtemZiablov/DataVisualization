@@ -2,6 +2,9 @@
 
 This project visualizes student data using an interactive map and statistical charts, with processed data stored in various formats and enhanced by custom scripts.
 
+## Deployed to GitHub pages
+https://artemziablov.github.io/DataVisualization/
+
 ---
 
 ## **Data Storage and Structure**
